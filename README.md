@@ -58,8 +58,7 @@ To transform raw Netflix data into actionable insights using **SQL-driven analys
 ---
 
 ## 📸 Dashboard Preview
-
-*(Add screenshot here)*
+![Dashboard](dashboard.png)
 
 ---
 
